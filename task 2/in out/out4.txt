@@ -1,0 +1,847 @@
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Enter First File Name:
+Enter Second File Name:
+Unify Succeeded
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Get Unify Database Details Succeeded
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 6):series: 22, season: 6 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 5):series: 36, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 5):series: 36, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 5):series: 36, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 5):series: 36, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 5):series: 36, season: 3 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 5):series: 36, season: 5 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 7 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 3 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 7 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 3 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 7 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 3 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 7 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 3 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 7 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 3 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 7):series: 355, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 444, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 2):series: 242, season: 2 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 1):series: 99, season: 1 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Watching Details
+Series Code:022, Season Number:6
+Series Code:036, Season Number:2
+Series Code:036, Season Number:2
+Series Code:036, Season Number:2
+Series Code:036, Season Number:1
+Series Code:036, Season Number:3
+Series Code:036, Season Number:5
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:242, Season Number:2
+Series Code:242, Season Number:2
+Series Code:242, Season Number:2
+Series Code:242, Season Number:2
+Series Code:242, Season Number:1
+Series Code:242, Season Number:2
+Series Code:242, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:1
+Series Code:444, Season Number:2
+Series Code:444, Season Number:1
+Series Code:355, Season Number:7
+Series Code:355, Season Number:3
+Series Code:355, Season Number:2
+Series Code:355, Season Number:7
+Series Code:355, Season Number:3
+Series Code:355, Season Number:2
+Series Code:355, Season Number:7
+Series Code:355, Season Number:3
+Series Code:355, Season Number:2
+Series Code:355, Season Number:7
+Series Code:355, Season Number:3
+Series Code:355, Season Number:2
+Series Code:355, Season Number:7
+Series Code:355, Season Number:3
+Series Code:355, Season Number:2
+Series Code:444, Season Number:2
+Series Code:444, Season Number:1
+Series Code:444, Season Number:2
+Series Code:444, Season Number:1
+Series Code:242, Season Number:2
+Series Code:242, Season Number:1
+Series Code:242, Season Number:2
+Series Code:242, Season Number:2
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+Series Code:099, Season Number:1
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:RANK 15
+355-Big Little Lies
+Season 1:0
+Season 2:5
+Season 3:5
+Season 4:0
+Season 5:0
+Season 6:0
+Season 7:5
+444-Dark
+Season 1:12
+Season 2:3
+RANK 14
+RANK 13
+099-Killing Eve
+Season 1:13
+RANK 12
+RANK 11
+242-Altered Carbon
+Season 1:3
+Season 2:8
+RANK 10
+RANK 9
+RANK 8
+RANK 7
+RANK 6
+036-The Boys
+Season 1:1
+Season 2:3
+Season 3:1
+Season 4:0
+Season 5:1
+RANK 5
+RANK 4
+RANK 3
+RANK 2
+RANK 1
+022-House of Cards
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+Season 5:0
+Season 6:1
+RANK 0
+002-The Crown
+Season 1:0
+Season 2:0
+Season 3:0
+007-Stranger Things
+Season 1:0
+Season 2:0
+008-Money Heist
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+010-Black Mirror
+Season 1:0
+Season 2:0
+035-Euphoria
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+Season 5:0
+040-Chernobyl
+Season 1:0
+Season 2:0
+111-This Is Us
+Season 1:0
+Season 2:0
+Season 3:0
+112-The Americans
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+Season 5:0
+Season 6:0
+123-Felicity
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+276-Ozark
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+Season 5:0
+Season 6:0
+313-You
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+Season 5:0
+Season 6:0
+Season 7:0
+Season 8:0
+Season 9:0
+Season 10:0
+401-Riverdale
+Season 1:0
+Season 2:0
+Season 3:0
+Season 4:0
+402-The X-Files
+Season 1:0
+Season 2:0
+Season 3:0
+445-Broadchurch
+Season 1:0
+Season 2:0
+Season 3:0
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:End Of The Program...

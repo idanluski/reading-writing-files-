@@ -1,0 +1,7 @@
+﻿  task2.c
+C:\Users\luski\Desktop\c progrming\task 2\task 2\task2.c(119,9): warning C4102: 'deafult': unreferenced label
+C:\Users\luski\Desktop\c progrming\task 2\task 2\task2.c(263,6): warning C4101: 'i': unreferenced local variable
+C:\Users\luski\Desktop\c progrming\task 2\task 2\task2.c(397,6): warning C4101: 'i': unreferenced local variable
+C:\Users\luski\Desktop\c progrming\task 2\task 2\task2.c(433,6): warning C4101: 's': unreferenced local variable
+C:\Users\luski\Desktop\c progrming\task 2\task 2\task2.c(491,30): warning C4022: 'free': pointer mismatch for actual parameter 1
+  task 2.vcxproj -> C:\Users\luski\Desktop\c progrming\task 2\Debug\task 2.exe

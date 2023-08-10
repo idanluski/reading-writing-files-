@@ -1,0 +1,70 @@
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:You must unify database before using this option!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:You must unify database before using this option!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:You must unify database before using this option!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:You must unify database before using this option!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:You must unify database before using this option!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:You must unify database before using this option!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:End Of The Program...

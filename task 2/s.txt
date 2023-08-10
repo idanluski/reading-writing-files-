@@ -1,0 +1,20 @@
+The Crown,2,3,Y
+Stranger Things,7,3,N
+Black Mirror,10,2,Y
+Friends,12,25,N
+House of Cards,22,2,Y
+Euphoria,35,5,Y
+The Boys,36,2,N
+Bodyguard,67,12,N
+Killing Eve,99,1,Y
+This Is Us,111,3,Y
+The Americans,112,6,Y
+Felicity,123,4,Y
+Stargate SG-1,213,8,N
+Ozark,276,6,Y
+You,313,10,Y
+Big Little Lies,355,2,Y
+Riverdale,401,4,Y
+The X-Files,402,30,N
+Dark,444,2,Y
+Broadchurch,445,3,Y

@@ -1,0 +1,65 @@
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Enter First File Name:
+Enter Second File Name:
+Unify Succeeded
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Get Unify Database Details Succeeded
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:wrong serie code, try again!!!
+Insert Season Number (1 - 6):wrong season number, try again!!!
+wrong season number, try again!!!
+series: 112, season: 5 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 10):series: 313, season: 3 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:Insert Serie Code:Insert Season Number (1 - 6):series: 22, season: 6 accepted!!!
+**********Main Menu **************
+1. Unify Database.
+2. Get Unify Database Details.
+3. Print The Series List Sorted By Code.
+4. Get Watching Details.
+5. Show All Watching Details.
+6. Print Series Sorted By Rank.
+7. Make Series File Sorted By Rank.
+8. Exit.
+Enter Your Selection:End Of The Program...

@@ -1,0 +1,20 @@
+The Crown,2,3
+Stranger Things,7,2
+Money Heist,8,4
+Black Mirror,10,2
+House of Cards,22,6
+Euphoria,35,5
+The Boys,36,5
+Chernobyl,40,2
+Killing Eve,99,1
+This Is Us,111,3
+The Americans,112,6
+Felicity,123,4
+Altered Carbon,242,2
+Ozark,276,6
+You,313,10
+Big Little Lies,355,7
+Riverdale,401,4
+The X-Files,402,3
+Dark,444,2
+Broadchurch,445,3

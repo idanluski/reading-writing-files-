@@ -1,0 +1,20 @@
+355(Rank:15)-Big Little Lies
+444(Rank:15)-Dark
+099(Rank:13)-Killing Eve
+242(Rank:11)-Altered Carbon
+036(Rank:6)-The Boys
+022(Rank:1)-House of Cards
+002(Rank:0)-The Crown
+007(Rank:0)-Stranger Things
+008(Rank:0)-Money Heist
+010(Rank:0)-Black Mirror
+035(Rank:0)-Euphoria
+040(Rank:0)-Chernobyl
+111(Rank:0)-This Is Us
+112(Rank:0)-The Americans
+123(Rank:0)-Felicity
+276(Rank:0)-Ozark
+313(Rank:0)-You
+401(Rank:0)-Riverdale
+402(Rank:0)-The X-Files
+445(Rank:0)-Broadchurch
